@@ -21,7 +21,7 @@
 
 #3. Highlight any assumptions, trade-offs, or challenges encountered during development.  
     Yes, I have faced challenge while working on the fronted end side, as it was the first time for me I was working on the vue js, for which I have no idea how it work. 
-    Still I don't know much about vue js, but from my past experience from react js, it help me to understand the logic behind the vue js.  
+    Still I don't know much about vue js, but from my past experience from react js, I was able to finish the above task withing the given time frame.    
     
 #4. In your readme.md file, also answer the following questions:  
     **What do I love most about being a software engineer.**  
