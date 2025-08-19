@@ -1,3 +1,12 @@
+**To start the Frontend project** 
+1- **npm install** (Will install all the dependent library)  
+2- **npm run dev** ( To start the project)  
+
+**To start the backend java project**
+1- Import the project into any STS or intellj, then start it as a spring boot application.
+ 
+ 
+ 
  **Assignment Documentation**  
  #1. Ensure your repository includes setup instructions and an updated README.md --> **Done**  
  #2. Find the short description of my approach to solving each task  
