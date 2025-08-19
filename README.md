@@ -1,7 +1,7 @@
- **Assignment Documentation**
- #1. Ensure your repository includes setup instructions and an updated README.md --> **Done**
- #2. Find the short description of my approach to solving each task
-   **Task-1 (Delete vendor)**
+ **Assignment Documentation**  
+ #1. Ensure your repository includes setup instructions and an updated README.md --> **Done**  
+ #2. Find the short description of my approach to solving each task  
+   **Task-1 (Delete vendor)**  
    My approch is, deleting a vendor should happen from where we are displaying all the vender, So I place the delete button infornt of every row in
    vender table, which changes the state in store to open the dilog confirm box, before final delete.
    Delete is happening based on the id, if that id is not availble, it will throw the exception, on the UI saying,--> "Vendor with id <id> not found"
