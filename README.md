@@ -35,7 +35,7 @@
     For me, one of the more challenging parts of being a software engineer is dealing with ambiguity—sometimes requirements aren’t clear, or priorities change midway. 
     It can be frustrating because it slows down progress. Another tough aspect is debugging issues that are hard to reproduce, which can take a lot of time and patience.
 
-Note--> Task-4  I haven't done anything. I am currently leaning it. 
+**Note--> Task-4  I haven't done anything. I am currently leaning it.**
 **My Current ongoing learning stack**
  1- Docker and kubernetes.( completing target-October)
  2- Azure cloud.(Completing target October)
