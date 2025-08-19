@@ -17,7 +17,7 @@
    1- Firstly, the unique constraint should be put at table level or entity level in our case, because, one system interect with many other system, if some other system            tries to insert the vendor details directly in our system, then it will throw the error.  
    2- From api perpective side, I have created global exception handler which handle the DataIntegrityViolationException as we have put the unique constrain on the email           column, so this is the second level of check.  
    3- Even the point 2 will not come into picture, as while submitting the form, I am checking if requested email already exit in db or not, if yes, then I am return a             message stating that the particular email id already registered.  
-      so Firt level of security is at DB or entity level, then at api level.  
+      So First level of security is at DB is mandatory or at entity level.  
 
 #3. Highlight any assumptions, trade-offs, or challenges encountered during development.  
     Yes, I have faced challenge while working on the fronted end side, as it was the first time for me I was working on the vue js, for which I have no idea how it work. 
