@@ -1,4 +1,4 @@
-**To start the Frontend project** 
+**To start the Frontend project**  
 1- **npm install** (Will install all the dependent library)  
 2- **npm run dev** ( To start the project)  
 
